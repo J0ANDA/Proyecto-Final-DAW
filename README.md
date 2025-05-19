@@ -23,6 +23,7 @@ Inicio de Sesión
 
 ------------------------------------------------------------------------------------
 2. Preferencias de Usuario
+   
 Cambiar Tema
 
 	1. Haz clic en el icono de tema en la barra superior
@@ -37,6 +38,7 @@ Cambiar Idioma
 3. Gestión de Productos
 
 Publicar un Producto
+
 	1. Inicia sesión en tu cuenta
 	2. Haz clic en "Publicar Producto"
 	3. Completa el formulario:
@@ -63,8 +65,9 @@ Eliminar un Producto
 ------------------------------------------------------------------------------------
 
 4. Seguridad
-
+   
 Cambiar Contraseña
+
 	1. Ve a "Mi Cuenta"
 	2. Selecciona "Cambiar Contraseña"
 	3. Ingresa la contraseña actual
@@ -73,5 +76,6 @@ Cambiar Contraseña
 	6. Guarda los cambios
 
 Cerrar Sesión
+
 	1. Haz clic en tu nombre de usuario
 	2. Selecciona "Cerrar Sesión"
